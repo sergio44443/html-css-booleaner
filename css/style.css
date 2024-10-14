@@ -1,18 +1,7 @@
 .order-container {
-  border-style: solid;
-  height: 400px;
-  width: 400px;
+  display: table;
+  margin: 20px auto;
 }
-
-
-
-.order-header {
-  text-align: center;
-  background-color: #a9dbde;
-  height: 60px;
-}
-
-
 
 tbody {
   font-size: 45%;
