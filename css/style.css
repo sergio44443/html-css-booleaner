@@ -1,13 +1,72 @@
+div {
+  background-clip: ;
+}
+
+
+
+
+
+
+.header {
+  height: 40px;
+  display: table;
+  white-space: nowrap;
+  margin: 0 auto;
+  width: 100%;
+  border-top: none
+}
+
+
+
 .order-container {
   display: table;
   margin: 20px auto;
 }
 
-tbody {
-  font-size: 45%;
-  font-style: italic;
-}
+
 table {
 table-layout: auto;
 table-layout: fixed;
+}
+tr {
+  background-color: #00f7ff;
+}
+tr.odd{ 
+  background-color:#00f7ff; 
+  }
+th.riga1 {
+  background-color: #00f7ff;
+  border: 0px solid #ffffff00;
+  color: rgb(255, 255, 255);
+}
+
+.riga1 {
+ background-color: #00f7ff;
+}
+.immagine-monitor> .et_pb_text {
+ 
+}
+h3 {
+  margin: 0px;
+  background-image: url('/img/monitor.jpg');
+  color: #FFFFFF;
+  font-size: 140%;
+  font-weight: normal;
+  line-height: 35px;
+  text-align: left;
+  width: 260px;
+  height: 210px;
+}
+.testo1 {
+line-height: 0.3;
+}
+.riga1 {
+  background-color: #FFFFFF;
+  width: 300px;size: 300px;
+}
+.the-bolean {
+ background-image: image-set();
+}
+.pattern {
+  background-color: #00f7ff;
 }
