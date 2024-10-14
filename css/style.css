@@ -1,0 +1,22 @@
+.order-container {
+  border-style: solid;
+  height: 400px;
+  width: 400px;
+}
+
+.order-header {
+  text-align: center;
+  background-color: #a9dbde;
+  height: 60px;
+}
+
+
+
+tbody {
+  font-size: 45%;
+  font-style: italic;
+}
+table {
+table-layout: auto;
+table-layout: fixed;
+}
